@@ -1,2 +1,2 @@
 # WeatherApp
-JavaScript Project
+weather app 
